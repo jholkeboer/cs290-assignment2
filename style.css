@@ -15,3 +15,7 @@
 	background-color:blue; 
 	height:50px;
 }
+
+dt:hover + dd{
+	background-color:purple;
+}
