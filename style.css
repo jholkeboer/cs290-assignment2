@@ -1,0 +1,17 @@
+.outer-content {
+	position:relative;
+	margin:20px;
+	width:75%;
+	background-color:pink;
+	height:200px;
+}
+
+.inner-content {
+	position:relative;
+	width:75%;
+	margin:0 auto;
+	top:75px;
+	margin:auto;
+	background-color:blue; 
+	height:50px;
+}
